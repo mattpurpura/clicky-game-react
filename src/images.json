@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/dva/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 2, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/orisa/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 3, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/tracer/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 4, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/roadhog/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 5, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/zarya/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 6, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/genji/hero-select-portrait.png",
+        "clicked": false 
+    }, 
+    {
+        "id": 7, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mei/hero-select-portrait.png", 
+        "clicked": false 
+    },
+    {
+        "id": 8, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/reaper/hero-select-portrait.png", 
+        "clicked": false 
+    },
+    {
+        "id": 9, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/pharah/hero-select-portrait.png", 
+        "clicked": false 
+    },
+    {
+        "id": 10, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png",
+        "clicked": false 
+    },
+    {
+        "id": 11, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ana/hero-select-portrait.png", 
+        "clicked": false 
+    }, 
+    {
+        "id": 12, 
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/zenyatta/hero-select-portrait.png", 
+        "clicked": false 
+    }
+]
